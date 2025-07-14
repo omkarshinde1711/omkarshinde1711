@@ -3,7 +3,8 @@
 🎓 B.Tech in Computer Science @ MIT Academy of Engineering, Pune  
 💻 Full-stack dev • Linux enthusiast • Deep learning dabbler  
 🎨 Design thinker by day, bug squasher by night  
-📍 Passionate about building software that works, scales, and looks great doing it.
+📍 Passionate about building software that works, scales, and looks great doing it  
+🧑‍💻 Problem-solving [leetcode.com/u/ThePixelPirate/](https://leetcode.com/u/ThePixelPirate/)
 
 ---
 
